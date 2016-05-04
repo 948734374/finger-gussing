@@ -147,5 +147,5 @@ public class Judge {
 			System.out.println("结果：呵呵，你真棒！");
 		else
 			System.out.println("平局");
-	}
+	}}
 
